@@ -1,2 +1,3 @@
 print("Hello, World!")
-print("This is the correct new version!")
+print("This is fun! This is the correct new version!")
+
