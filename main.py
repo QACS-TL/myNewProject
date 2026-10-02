@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("New Feature!")
+print("This is the correct new version!")
